@@ -1,0 +1,1 @@
+{"name":"gestor-clases","version":"1.0.1","private":true,"main":"server.js","scripts":{"start":"node server.js"},"dependencies":{"express":"^4.21.2","express-session":"^1.18.1","bcryptjs":"^2.4.3"}}
